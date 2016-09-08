@@ -36,7 +36,7 @@ If you use this configuration, **follow** steps 6)+7)
 
 ```bash
 mkdir -p /etc/supervisor/
-sudo curl https://raw.githubusercontent.com/illagrenan/ubuntu-supervisor-configuration/master/supervisord.conf > /etc/supervisor/supervisord.conf
+sudo curl https://raw.githubusercontent.com/sebastianmacias/ubuntu-supervisor-configuration/master/supervisord.conf > /etc/supervisor/supervisord.conf
 ```
 
 **5B)**
