@@ -74,7 +74,7 @@ ln -s /etc/supervisor/supervisord.conf /etc/supervisord.conf
 More info here: http://stackoverflow.com/a/17036409/752142
 
 ```bash
-sudo /etc/supervisor/conf.d/
+sudo mkdir /etc/supervisor/conf.d/
 ```
 
 **9) Use it:**
